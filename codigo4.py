@@ -12,7 +12,7 @@ import plotly.express as px
 
 # 3.1 - seção vendas cadastro
     # tabela com as vendas 
-tabela_vendas = pd.read_csv("Aula 4/vendas.csv")
+tabela_vendas = pd.read_csv("vendas.csv")
 
 
 # 1 - titulos - sistema
@@ -41,7 +41,7 @@ if Botao_cadastrar:
             nova_venda = [str(data), vendedor, produto, quantidade, valor] # cria uma linha 
             ultima_linha = len(tabela_vendas) # retorno numeero d linhas.
             tabela_vendas.loc[ultima_linha] = nova_venda # salva lina criana na ultima linha da tabla
-            tabela_vendas.to_csv("Aula 4/vendas.csv", index=False) # atualisa a tabla vendas.
+            tabela_vendas.to_csv("vendas.csv", index=False) # atualisa a tabla vendas.
             st.sidebar.success("Venda cadastrada!")
         else:
             st.sidebar.warning("Quantidad Vazia")
