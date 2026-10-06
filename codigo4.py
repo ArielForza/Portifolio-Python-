@@ -16,7 +16,8 @@ tabela_vendas = pd.read_csv("vendas.csv")
 
 
 # 1 - titulos - sistema
-st.write("# Sistema de Vendas")
+st.write("# Sistema de Venda")
+st.write("## Portifolio Ariel")
 
 # 2 - seção de cadastro venda
     # campo data
@@ -61,7 +62,7 @@ st.dataframe(tabela_vendas)
     # grafico de pizza - venda por produto
 st.write("## Dashboard")
 faturamento =  tabela_vendas["valor"].sum()
-st.metric("faturamento Tota", f"R$ {faturamento}")
+st.metric("faturamento Total", f"R$ {faturamento}")
 
 grafico_barra = px.bar(tabela_vendas, x="vendedor", y="valor", color="produto")
 st.plotly_chart(grafico_barra)
