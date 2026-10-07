@@ -7,7 +7,7 @@ from openai import OpenAI # IMPORTA A BIBLIOTECA DESEJADA DA IA.
 # python -m streamlit run "Aula 3\codigo3.py"  >> erro por verção code corrigindo.
 
 # 5.1 Tornar respostas in teligentes.
-modelo_ia = OpenAI(api_key="AQ.Ab8RN6JbH9kmn4xWzbe63GNCt2xMB_kmT4MVCm6ymZ7NGqYugA",
+modelo_ia = OpenAI(api_key="AQ.Ab8RN6I4hvFXr5IjBlvcRXhM44R_bN80m3VLjKwxiKbz8fcwZw",
                    base_url="https://generativelanguage.googleapis.com/v1beta/openai")
 
 
@@ -55,5 +55,3 @@ if mensagem_usuario:
     resposta = {"role": "assistant", "content": resposta_ia}
     st.session_state["lista_mensagens"].append(resposta)
 
-    
-    
