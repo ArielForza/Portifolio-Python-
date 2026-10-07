@@ -68,6 +68,6 @@ Desafio clientes estão cancelando serviço. Vamos descobrir o pq para desenvolv
 # links uteis
 
 [Plotly](https://plotly.com/)  >> Gráficos para O Python.  
-[Kaggle](https://www.kaggle.com/datasets) >> Banco de dados compartilhados para projetos.
+[Kaggle](https://www.kaggle.com/datasets) >> Banco de dados compartilhados para projetos.  
 [streamlit](https://streamlit.io/cloud) >> Posta online gratuitamente para teste.
 
