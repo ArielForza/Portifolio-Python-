@@ -39,9 +39,9 @@ Desafio clientes estão cancelando serviço. Vamos descobrir o pq para desenvolv
 1 - Titulos  
 2 - campo de mensagens (input)  
 3 - quandop usuario envia mensagens  
-    mostrar a mensagem   
-    manda para ia  
-    mostrar resposta da ia  
+   &nbsp;&nbsp;&nbsp;&nbsp; mostrar a mensagem   
+   &nbsp;&nbsp;&nbsp;&nbsp; manda para ia  
+   &nbsp;&nbsp;&nbsp;&nbsp; mostrar resposta da ia  
 4 Criar memoria >> em lista  
 5 Tornar respostas inteligentes.  
 
@@ -52,16 +52,16 @@ Desafio clientes estão cancelando serviço. Vamos descobrir o pq para desenvolv
 0 - Bibliotecas  
 1 - titulos - sistema  
 2 - seção de cadastro venda  
-     campo data  
-     vampo produto  
-     campo valor  
-     botão cadastrar vendas - atualizar vendas e sistema.  
+  &nbsp;&nbsp;&nbsp;&nbsp;   campo data  
+  &nbsp;&nbsp;&nbsp;&nbsp;    vampo produto  
+  &nbsp;&nbsp;&nbsp;&nbsp;   campo valor  
+  &nbsp;&nbsp;&nbsp;&nbsp;    botão cadastrar vendas - atualizar vendas e sistema.  
 3 - seção vendas cadastro  
       tabela com as vendas  
       4 - seção dashboard  
-    card metricas - faturamento total  
-    grafico de barras - venda por vendedor  
-    grafico de pizza - venda por produto  
+  &nbsp;&nbsp;&nbsp;&nbsp;   card metricas - faturamento total  
+  &nbsp;&nbsp;&nbsp;&nbsp;   grafico de barras - venda por vendedor  
+  &nbsp;&nbsp;&nbsp;&nbsp;   grafico de pizza - venda por produto  
     
 # links uteis
 
