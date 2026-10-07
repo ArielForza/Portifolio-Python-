@@ -46,8 +46,10 @@ Desafio clientes estão cancelando serviço. Vamos descobrir o pq para desenvolv
 5 Tornar respostas inteligentes.  
 
 # 4º PROJETO:
-[Codigo4](codigo4.py) >>  cadastro de vendas + Gráficos e analise simples.  
-[Programa](https://portifolio-ariel.streamlit.app/)  
+[Codigo4](codigo4.py) >>  cadastro de vendas + Gráficos e analise simples.
+[Vendas](vendas.csv) >> Base de dados
+[Code para RODAR ONLINE](requirements.txt) >> Postado um vale para os 4 códigos postados
+[Programa](https://portifolio-ariel.streamlit.app/)  >> Online sem erros
 ## Passa a passo:  
 0 - Bibliotecas  
 1 - titulos - sistema  
@@ -65,6 +67,7 @@ Desafio clientes estão cancelando serviço. Vamos descobrir o pq para desenvolv
     
 # links uteis
 
-[Plotly](https://plotly.com/)  >> gráficos para O Python.  
-[Kaggle](https://www.kaggle.com/datasets) >> banco de dados compartilhados para projetos.
+[Plotly](https://plotly.com/)  >> Gráficos para O Python.  
+[Kaggle](https://www.kaggle.com/datasets) >> Banco de dados compartilhados para projetos.
+[streamlit](https://streamlit.io/cloud) >> Posta online gratuitamente para teste.
 
